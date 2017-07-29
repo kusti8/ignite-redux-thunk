@@ -1,0 +1,15 @@
+{
+  "name": "ignite-redux-thunk",
+  "version": "0.0.1",
+  "description": "An Ignite CLI plugin for redux-thunk.",
+  "license": "MIT",
+  "devDependencies": {},
+  "url": "https://github.com/kusti8/ignite-redux-thunk/issues",
+  "author": {
+    "name": "Gustav Hansen",
+    "email": "kusti8@gmail.com",
+    "url": "https://github.com/kusti8"
+  }
+}
+
+
